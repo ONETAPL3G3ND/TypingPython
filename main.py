@@ -1,3 +1,4 @@
+#https://github.com/ONETAPL3G3ND
 from typing import List
 def my_function(numbers: List[int]) -> int:
 	total = 0
